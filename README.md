@@ -15,8 +15,9 @@ It allows users to input their height, weight, and age to calculate their BMI, a
 
 ## 📱 Screenshots
 
-![Simulator Screenshot - iPhone 16 Pro Max - 2025-05-15 at 01 23 14](https://github.com/user-attachments/assets/ef3b9d68-a4aa-4159-9193-709e04c27303)
-![Simulator Screenshot - iPhone 16 Pro Max - 2025-05-15 at 01 23 42](https://github.com/user-attachments/assets/770b0a36-94cd-44ee-a6b5-6cdd491c5d07)
+<img width="372" alt="image" src="https://github.com/user-attachments/assets/640c85e4-a1f3-4141-990c-cc3b07846724" />
+
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/34df330b-89f2-4416-ae5f-d0d1dbd6b151" />
 
 
 
