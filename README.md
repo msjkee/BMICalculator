@@ -1,16 +1,78 @@
-# bmi_calculator
+# BMI Calculator 🧮
 
-A new Flutter project.
+A clean and modern Body Mass Index (BMI) calculator app built using Flutter.  
+It allows users to input their height, weight, and age to calculate their BMI, and receive meaningful feedback.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Simple and responsive UI
+- Gender selection
+- Height slider (cm)
+- Weight and age stepper controls
+- Instant BMI calculation
+- Health advice based on the result
+- Reusable, modular widgets
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-05-15 at 01 23 14](https://github.com/user-attachments/assets/ef3b9d68-a4aa-4159-9193-709e04c27303)
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-05-15 at 01 23 42](https://github.com/user-attachments/assets/770b0a36-94cd-44ee-a6b5-6cdd491c5d07)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## 🔧 Technologies
+
+- Flutter SDK
+- Dart
+- font_awesome_flutter
+
+## 🛠 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/msjkee/bmi_calculator.git
+   cd bmi_calculator
+   ```
+
+2. Get dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+3. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## 📦 Dependencies
+
+```yaml
+flutter:
+  sdk: flutter
+cupertino_icons: ^1.0.8
+font_awesome_flutter: ^10.8.0
+```
+
+## 📁 Project Structure
+
+```
+lib/
+├── main.dart
+├── input_page.dart
+├── results_page.dart
+├── calculator_brain.dart
+├── constants.dart
+├── reusable_card.dart
+├── icon_content.dart
+├── bottom_button.dart
+└── round_icon_button.dart
+```
+
+## 📃 License
+
+This project is licensed under the MIT License.
+
+---
+
+Made with ❤️ by [msjkee](https://github.com/msjkee)
+
